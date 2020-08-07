@@ -1,0 +1,25 @@
+sceneSetups:
+- path: Assets/RobotWorksapceAndUI.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Industrial Robotic Manipulators Bundle/Scenes/Props.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/VRUI - Material Design/Demo/SampleScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/RealSenseSDK2.0/Scenes/Samples/SLAM.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/SampleScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/HandUIMod.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
